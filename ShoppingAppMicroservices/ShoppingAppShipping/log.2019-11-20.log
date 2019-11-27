@@ -1,0 +1,236 @@
+11:20 11:16:35.657 [restartedMain] [INFO] [c.e.demo.HotelServiceApplication] - Starting HotelServiceApplication on LAPTOP-AIM543VM with PID 5304 (started by my476 in C:\Users\my476\Downloads\HotelService (2)\HotelService)
+11:20 11:16:35.659 [restartedMain] [INFO] [c.e.demo.HotelServiceApplication] - No active profile set, falling back to default profiles: default
+11:20 11:16:51.292 [restartedMain] [INFO] [c.e.demo.HotelServiceApplication] - Started HotelServiceApplication in 15.957 seconds (JVM running for 16.484)
+11:20 11:16:51.333 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 11:16:53.238 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 11:16:53.238 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 11:16:53.401 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 11:16:53.403 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 11:16:53.495 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 11:16:53.495 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 11:16:54.493 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 11:16:54.493 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 11:16:56.604 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 11:16:56.605 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 11:16:56.873 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 11:16:56.875 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 11:16:56.943 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 11:16:56.943 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 11:16:57.019 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 11:16:57.020 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 11:16:57.116 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 11:16:57.116 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 11:16:57.207 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 11:16:57.208 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 11:16:57.330 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 11:16:57.330 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 11:16:57.455 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 11:16:57.456 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 11:16:57.567 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 11:16:57.567 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 11:16:57.626 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 11:16:57.627 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 11:16:57.730 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 11:16:57.731 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 11:16:57.854 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 11:18:35.863 [http-nio-8080-exec-7] [INFO] [c.e.demo.service.LoggingService] - Inside methodfindAll
+11:20 11:18:36.348 [http-nio-8080-exec-7] [INFO] [c.e.demo.service.LoggingService] - Exiting methodfindAll
+11:20 12:31:32.072 [restartedMain] [INFO] [c.e.demo.HotelServiceApplication] - Starting HotelServiceApplication on LAPTOP-AIM543VM with PID 4344 (started by my476 in C:\Users\my476\Downloads\HotelService (2)\HotelService)
+11:20 12:31:32.076 [restartedMain] [INFO] [c.e.demo.HotelServiceApplication] - No active profile set, falling back to default profiles: default
+11:20 12:31:52.623 [restartedMain] [INFO] [c.e.demo.HotelServiceApplication] - Started HotelServiceApplication in 20.951 seconds (JVM running for 21.587)
+11:20 12:31:52.681 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 12:31:53.231 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 12:31:53.231 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 12:31:53.848 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 12:31:53.850 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 12:31:53.931 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 12:31:53.931 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 12:31:53.997 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 12:31:53.998 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 12:31:54.502 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 12:31:54.503 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 12:31:55.042 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 12:31:55.043 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 12:31:55.138 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 12:31:55.138 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 12:31:56.316 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 12:31:56.318 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 12:31:56.432 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 12:31:56.432 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 12:31:56.798 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 12:31:56.800 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 12:31:56.950 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 12:31:56.951 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 12:31:57.075 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 12:31:57.076 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 12:31:57.169 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 12:31:57.170 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 12:31:57.242 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 12:31:57.244 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 12:31:57.347 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 12:31:57.348 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 12:31:57.443 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 13:46:44.450 [restartedMain] [INFO] [c.e.demo.HotelServiceApplication] - Starting HotelServiceApplication on LAPTOP-AIM543VM with PID 2008 (started by my476 in C:\Users\my476\Downloads\HotelService (2)\HotelService)
+11:20 13:46:44.453 [restartedMain] [INFO] [c.e.demo.HotelServiceApplication] - No active profile set, falling back to default profiles: default
+11:20 13:47:08.590 [restartedMain] [INFO] [c.e.demo.HotelServiceApplication] - Started HotelServiceApplication in 24.584 seconds (JVM running for 25.452)
+11:20 13:47:08.686 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 13:47:09.335 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 13:47:09.335 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 13:47:09.535 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 13:47:09.536 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 13:47:09.637 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 13:47:09.637 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 13:47:09.729 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 13:47:09.730 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 13:47:10.290 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 13:47:10.290 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 13:47:10.650 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 13:47:10.651 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 13:47:10.991 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 13:47:10.991 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 13:47:11.072 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 13:47:11.073 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 13:47:11.410 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 13:47:11.410 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 13:47:11.519 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 13:47:11.520 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 13:47:11.684 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 13:47:11.684 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 13:47:11.833 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 13:47:11.833 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 13:47:11.939 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 13:47:11.939 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 13:47:12.045 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 13:47:12.046 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 13:47:12.170 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 13:47:12.171 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 13:47:12.293 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 13:56:18.773 [restartedMain] [INFO] [c.e.demo.HotelServiceApplication] - Starting HotelServiceApplication on LAPTOP-AIM543VM with PID 5592 (started by my476 in C:\Users\my476\Downloads\HotelService (2)\HotelService)
+11:20 13:56:18.777 [restartedMain] [INFO] [c.e.demo.HotelServiceApplication] - No active profile set, falling back to default profiles: default
+11:20 14:02:58.736 [restartedMain] [INFO] [c.e.demo.HotelServiceApplication] - Starting HotelServiceApplication on LAPTOP-AIM543VM with PID 2740 (started by my476 in C:\Users\my476\Downloads\HotelService (2)\HotelService)
+11:20 14:02:58.741 [restartedMain] [INFO] [c.e.demo.HotelServiceApplication] - No active profile set, falling back to default profiles: default
+11:20 14:09:53.236 [restartedMain] [INFO] [c.e.demo.HotelServiceApplication] - Starting HotelServiceApplication on LAPTOP-AIM543VM with PID 12896 (started by my476 in C:\Users\my476\Downloads\HotelService (2)\HotelService)
+11:20 14:09:53.241 [restartedMain] [INFO] [c.e.demo.HotelServiceApplication] - No active profile set, falling back to default profiles: default
+11:20 14:14:55.665 [restartedMain] [INFO] [c.e.demo.HotelServiceApplication] - Starting HotelServiceApplication on LAPTOP-AIM543VM with PID 2508 (started by my476 in C:\Users\my476\Downloads\HotelService (2)\HotelService)
+11:20 14:14:55.670 [restartedMain] [INFO] [c.e.demo.HotelServiceApplication] - No active profile set, falling back to default profiles: default
+11:20 14:17:23.364 [restartedMain] [INFO] [c.e.demo.HotelServiceApplication] - Starting HotelServiceApplication on LAPTOP-AIM543VM with PID 10976 (started by my476 in C:\Users\my476\Downloads\HotelService (2)\HotelService)
+11:20 14:17:23.368 [restartedMain] [INFO] [c.e.demo.HotelServiceApplication] - No active profile set, falling back to default profiles: default
+11:20 14:17:44.246 [restartedMain] [INFO] [c.e.demo.HotelServiceApplication] - Started HotelServiceApplication in 21.402 seconds (JVM running for 22.347)
+11:20 14:17:44.367 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 14:17:44.744 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 14:17:44.745 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 14:17:44.909 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 14:17:44.910 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 14:17:44.997 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 14:17:44.998 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 14:17:45.066 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 14:17:45.068 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 14:17:45.343 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 14:17:45.344 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 14:17:45.623 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 14:17:45.624 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 14:17:45.707 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 14:17:45.708 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 14:17:45.784 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 14:17:45.785 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 14:17:45.886 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 14:17:45.887 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 14:17:45.987 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 14:17:45.988 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 14:17:46.111 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 14:17:46.111 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 14:17:46.360 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 14:17:46.361 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 14:17:46.452 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 14:17:46.452 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 14:17:46.523 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 14:17:46.523 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 14:17:46.617 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 14:17:46.618 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 14:17:46.714 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 14:20:53.716 [restartedMain] [INFO] [c.e.demo.HotelServiceApplication] - Starting HotelServiceApplication on LAPTOP-AIM543VM with PID 10976 (started by my476 in C:\Users\my476\Downloads\HotelService (2)\HotelService)
+11:20 14:20:53.717 [restartedMain] [INFO] [c.e.demo.HotelServiceApplication] - No active profile set, falling back to default profiles: default
+11:20 14:21:39.218 [restartedMain] [INFO] [c.e.demo.HotelServiceApplication] - Starting HotelServiceApplication on LAPTOP-AIM543VM with PID 10976 (started by my476 in C:\Users\my476\Downloads\HotelService (2)\HotelService)
+11:20 14:21:39.219 [restartedMain] [INFO] [c.e.demo.HotelServiceApplication] - No active profile set, falling back to default profiles: default
+11:20 14:21:48.430 [restartedMain] [INFO] [c.e.demo.HotelServiceApplication] - Starting HotelServiceApplication on LAPTOP-AIM543VM with PID 5708 (started by my476 in C:\Users\my476\Downloads\HotelService (2)\HotelService)
+11:20 14:21:48.435 [restartedMain] [INFO] [c.e.demo.HotelServiceApplication] - No active profile set, falling back to default profiles: default
+11:20 14:23:09.560 [restartedMain] [INFO] [c.e.demo.HotelServiceApplication] - Starting HotelServiceApplication on LAPTOP-AIM543VM with PID 10976 (started by my476 in C:\Users\my476\Downloads\HotelService (2)\HotelService)
+11:20 14:23:09.561 [restartedMain] [INFO] [c.e.demo.HotelServiceApplication] - No active profile set, falling back to default profiles: default
+11:20 14:23:36.415 [restartedMain] [INFO] [c.e.demo.HotelServiceApplication] - Starting HotelServiceApplication on LAPTOP-AIM543VM with PID 10976 (started by my476 in C:\Users\my476\Downloads\HotelService (2)\HotelService)
+11:20 14:23:36.415 [restartedMain] [INFO] [c.e.demo.HotelServiceApplication] - No active profile set, falling back to default profiles: default
+11:20 14:24:06.176 [restartedMain] [INFO] [c.e.demo.HotelServiceApplication] - Starting HotelServiceApplication on LAPTOP-AIM543VM with PID 10976 (started by my476 in C:\Users\my476\Downloads\HotelService (2)\HotelService)
+11:20 14:24:06.177 [restartedMain] [INFO] [c.e.demo.HotelServiceApplication] - No active profile set, falling back to default profiles: default
+11:20 14:24:44.049 [restartedMain] [INFO] [c.e.demo.HotelServiceApplication] - Starting HotelServiceApplication on LAPTOP-AIM543VM with PID 10976 (started by my476 in C:\Users\my476\Downloads\HotelService (2)\HotelService)
+11:20 14:24:44.050 [restartedMain] [INFO] [c.e.demo.HotelServiceApplication] - No active profile set, falling back to default profiles: default
+11:20 14:25:33.161 [restartedMain] [INFO] [c.e.demo.HotelServiceApplication] - Starting HotelServiceApplication on LAPTOP-AIM543VM with PID 10976 (started by my476 in C:\Users\my476\Downloads\HotelService (2)\HotelService)
+11:20 14:25:33.161 [restartedMain] [INFO] [c.e.demo.HotelServiceApplication] - No active profile set, falling back to default profiles: default
+11:20 14:25:43.424 [restartedMain] [INFO] [c.e.demo.HotelServiceApplication] - Started HotelServiceApplication in 10.359 seconds (JVM running for 501.525)
+11:20 14:25:43.429 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 14:25:43.908 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 14:25:43.909 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 14:25:44.341 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 14:25:44.342 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 14:25:44.677 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 14:25:44.678 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 14:25:45.011 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 14:25:45.012 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 14:25:45.580 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 14:25:45.581 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 14:25:46.133 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 14:25:46.134 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 14:25:46.571 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 14:25:46.571 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 14:25:46.932 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 14:25:46.933 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 14:25:47.337 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 14:25:47.337 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 14:25:47.692 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 14:25:47.692 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 14:25:48.070 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 14:25:48.071 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 14:25:48.471 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 14:25:48.472 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 14:25:48.797 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 14:25:48.797 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 14:25:49.105 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 14:25:49.106 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 14:25:49.485 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 14:25:49.487 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 14:25:49.805 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 14:36:57.326 [restartedMain] [INFO] [c.e.demo.HotelServiceApplication] - Starting HotelServiceApplication on LAPTOP-AIM543VM with PID 10976 (started by my476 in C:\Users\my476\Downloads\HotelService (2)\HotelService)
+11:20 14:36:57.327 [restartedMain] [INFO] [c.e.demo.HotelServiceApplication] - No active profile set, falling back to default profiles: default
+11:20 14:38:27.598 [restartedMain] [INFO] [c.e.demo.HotelServiceApplication] - Starting HotelServiceApplication on LAPTOP-AIM543VM with PID 888 (started by my476 in C:\Users\my476\Downloads\HotelService (2)\HotelService)
+11:20 14:38:27.601 [restartedMain] [INFO] [c.e.demo.HotelServiceApplication] - No active profile set, falling back to default profiles: default
+11:20 14:38:47.840 [restartedMain] [INFO] [c.e.demo.HotelServiceApplication] - Started HotelServiceApplication in 20.865 seconds (JVM running for 21.76)
+11:20 14:38:47.953 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 14:38:48.683 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 14:38:48.684 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 14:38:49.109 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 14:38:49.111 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 14:38:49.523 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 14:38:49.523 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 14:38:49.837 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 14:38:49.838 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 14:38:50.423 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 14:38:50.423 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 14:38:51.360 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 14:38:51.362 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 14:38:51.710 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 14:38:51.710 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 14:38:52.084 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 14:38:52.086 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 14:38:52.454 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 14:38:52.454 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 14:38:52.837 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 14:38:52.838 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 14:38:53.307 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 14:38:53.308 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 14:38:53.795 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 14:38:53.796 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 14:38:55.246 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 14:38:55.246 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 14:38:55.563 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 14:38:55.564 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 14:38:55.971 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:20 14:38:55.973 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:20 14:38:56.378 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
