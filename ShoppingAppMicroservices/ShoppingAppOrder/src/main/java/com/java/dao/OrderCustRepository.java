@@ -1,20 +1,20 @@
 package com.java.dao;
 
+import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.util.List;
 
 import org.springframework.data.jpa.repository.Query;
-import org.springframework.data.rest.core.annotation.RestResource;
 
 import com.java.dto.Order;
+import com.java.dto.Order.OrderStatus;
 
 public interface OrderCustRepository {
-	@RestResource
-	@Query(nativeQuery=true, value="select * from Order where date > ?1 ")
-	List<Order> getOrderListAfterDate( LocalDateTime date );
 	
-	@RestResource
-	@Query(nativeQuery=true, value="update table Order set status = ?2 where orderId = ?1 ")
-	List<Order> changeOrderStatus( String orderId, String status );
+	List<Order> findByUsername( String username );
+	
+	//@RestResource
+	@Query(nativeQuery=true, value="select * from Orders where date > ?2 and username=?1")
+	List<Order> findOrderByUsernameAndAfterDate( String username, LocalDate date );
 	
 }

@@ -4,27 +4,29 @@ import java.util.List;
 
 import javax.persistence.ElementCollection;
 import javax.persistence.Entity;
-import javax.persistence.GeneratedValue;
+import javax.persistence.Enumerated;
 import javax.persistence.Id;
-import javax.persistence.OneToMany;
 import javax.persistence.OrderColumn;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
+import lombok.NoArgsConstructor;
 
 @Data
 @Entity
+@NoArgsConstructor
 @AllArgsConstructor
 @Builder
 public class Account {
 	// will use relational database
-	@Id
-	@GeneratedValue
+	@Id// (strategy=GenerationType.AUTO)
 	private String username;
 	private String password;
 	private boolean isLogin;
+	@Enumerated
 	private Gender gender;
+	@Enumerated
 	private UserRole role;
 	private Long mobile;
 	@ElementCollection
@@ -37,8 +39,7 @@ public class Account {
 	}
 	
 	public enum Gender {
-		male,
-		female
+		male, female
 	}
 	
 }

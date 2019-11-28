@@ -2,12 +2,14 @@ package com.java.Shopping1;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.context.annotation.Configuration;
+import org.springframework.transaction.annotation.EnableTransactionManagement;
 
 import lombok.Data;
 
 @Data
 @Configuration
 @ConfigurationProperties(prefix="spring")
+@EnableTransactionManagement(proxyTargetClass=false)
 public class DatabaseConfig {
 	Db db;
 	@Data

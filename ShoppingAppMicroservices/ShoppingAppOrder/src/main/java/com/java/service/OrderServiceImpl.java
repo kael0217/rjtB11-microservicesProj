@@ -1,5 +1,6 @@
 package com.java.service;
 
+import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.util.List;
 import java.util.Optional;
@@ -17,7 +18,7 @@ public class OrderServiceImpl implements OrderService {
 	@Autowired OrderRepository or;
 	
 	@Override
-	public Order retrieveAccountById(String orderId) {
+	public Order retrieveAccountById(Integer orderId) {
 		Optional<Order> ord = or.findById(orderId);
 		if( ord.isPresent() ) {
 			return ord.get();
@@ -26,12 +27,7 @@ public class OrderServiceImpl implements OrderService {
 	}
 
 	@Override
-	public List<Order> orderListAfterDate(LocalDateTime date) {
-		return or.getOrderListAfterDate(date);
-	}
-
-	@Override
-	public boolean cancelAnOrder(String orderId) {
+	public boolean cancelAnOrder(Integer orderId) {
 		Optional<Order> ord = or.findById(orderId);
 		if( ord.isPresent() ) {
 			Order o = ord.get();
