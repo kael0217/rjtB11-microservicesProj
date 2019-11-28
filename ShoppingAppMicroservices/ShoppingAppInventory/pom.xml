@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>ShoppingAppProduct</artifactId>
+	<artifactId>ShippingService</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>CartService</name>
+	<name>ShippingService</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
@@ -19,10 +19,6 @@
 	</properties>
 
 	<dependencies>
-		<dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-data-mongodb</artifactId>
-		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-actuator</artifactId>
@@ -64,6 +60,11 @@
 			<scope>runtime</scope>
 		</dependency>
 		<dependency>
+    <groupId>com.fasterxml.jackson.datatype</groupId>
+    <artifactId>jackson-datatype-jsr310</artifactId>
+    <version>2.9.8</version>
+</dependency>
+		<dependency>
 			<groupId>org.projectlombok</groupId>
 			<artifactId>lombok</artifactId>
 			<optional>true</optional>
@@ -89,79 +90,13 @@
 		
 	</dependencies>
 
-<!-- 	<build>
-		<finalName>ShoppingAppProduct</finalName>
+	<build>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-	</build> -->
-	<build>
-		<finalName>ProductCatalogDemo</finalName>
-		<plugins>
-		<plugin>
-				<groupId>io.fabric8</groupId>
-				<artifactId>docker-maven-plugin</artifactId>
-				<version>0.21.0</version>
-				<configuration>
-					<!-- <dockerHost>tcp://192.168.99.102:2376</dockerHost> -->
-					<registry>598250878366.dkr.ecr.us-east-1.amazonaws.com/shoppingapp</registry>
-					<!-- <verbose>true</verbose> -->
-					<!-- <extensions>true</extensions> -->
-					<!-- Needed if pushing to docker hub : must store these in local env -->
-					<!-- Moved this in settings.xml inside .m2 folder -->
-					<!-- <authConfig> <username>username</username> <password>password</password> 
-						</authConfig> -->
-					<authConfig>
-						<username>AKIAYWSUH6WPEGEU6CNC</username>
-						<password>88AqOm18Hr7AI6wWlX2N9MbLD6FZ7r1gPZ5sbPZV</password>
-					</authConfig>
-					<images>
-						<image>
-							<!-- name of the image -->
-							<name>598250878366.dkr.ecr.us-east-1.amazonaws.com/shoppingapp</name>
-							<build>
-								<!-- docker runs as daemon. CMD shud send all info to docker. Docker 
-									looks in this folder and sub-folder to build -->
-								<dockerFileDir>${project.basedir}/src/main/resources/</dockerFileDir>
-								<!-- copies artifact to docker build dir in target -->
-								<assembly>
-									<descriptorRef>artifact</descriptorRef>
-								</assembly>
-								<tags>
-									<tag>latest</tag>
-								</tags>
-
-							</build>
-						</image>
-					</images>
-				</configuration>
-				<executions>
-					<execution>
-						<phase>install</phase>
-						<goals>
-							<goal>build</goal>
-						</goals>
-					</execution>
-					<execution>
-						<id>mydeploy</id>
-						<phase>deploy</phase>
-						<goals>
-							<goal>push</goal>
-						</goals>
-					</execution>
-				</executions>
-			</plugin>
-			<plugin>
-				<artifactId>maven-deploy-plugin</artifactId>
-				<configuration>
-					<skip>true</skip>
-				</configuration>
-			</plugin>
-		</plugins>
 	</build>
-	
 
 </project>

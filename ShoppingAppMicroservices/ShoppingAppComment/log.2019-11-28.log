@@ -1,0 +1,39 @@
+11:28 09:09:11.663 [restartedMain] [INFO] [com.example.demo.ProductClient] - Starting ProductClient on Wenyangs-MacBook-Pro-2.local with PID 96539 (/Users/kael.zhang/eclipse-workspace/ShoppingAppComments/target/classes started by kael.zhang in /Users/kael.zhang/eclipse-workspace/ShoppingAppComments)
+11:28 09:09:11.664 [restartedMain] [INFO] [com.example.demo.ProductClient] - No active profile set, falling back to default profiles: default
+11:28 09:10:36.855 [restartedMain] [INFO] [com.example.demo.ProductClient] - Starting ProductClient on Wenyangs-MacBook-Pro-2.local with PID 96617 (/Users/kael.zhang/eclipse-workspace/ShoppingAppComments/target/classes started by kael.zhang in /Users/kael.zhang/eclipse-workspace/ShoppingAppComments)
+11:28 09:10:36.857 [restartedMain] [INFO] [com.example.demo.ProductClient] - No active profile set, falling back to default profiles: default
+11:28 09:14:21.561 [restartedMain] [INFO] [com.example.demo.ProductClient] - Starting ProductClient on Wenyangs-MacBook-Pro-2.local with PID 96832 (/Users/kael.zhang/eclipse-workspace/ShoppingAppComments/target/classes started by kael.zhang in /Users/kael.zhang/eclipse-workspace/ShoppingAppComments)
+11:28 09:14:21.562 [restartedMain] [INFO] [com.example.demo.ProductClient] - No active profile set, falling back to default profiles: default
+11:28 09:17:49.337 [restartedMain] [INFO] [com.example.demo.ProductClient] - Starting ProductClient on Wenyangs-MacBook-Pro-2.local with PID 97032 (/Users/kael.zhang/eclipse-workspace/ShoppingAppComments/target/classes started by kael.zhang in /Users/kael.zhang/eclipse-workspace/ShoppingAppComments)
+11:28 09:17:49.339 [restartedMain] [INFO] [com.example.demo.ProductClient] - No active profile set, falling back to default profiles: default
+11:28 09:19:58.061 [restartedMain] [INFO] [com.example.demo.ProductClient] - Starting ProductClient on Wenyangs-MacBook-Pro-2.local with PID 97162 (/Users/kael.zhang/eclipse-workspace/ShoppingAppComments/target/classes started by kael.zhang in /Users/kael.zhang/eclipse-workspace/ShoppingAppComments)
+11:28 09:19:58.063 [restartedMain] [INFO] [com.example.demo.ProductClient] - No active profile set, falling back to default profiles: default
+11:28 09:20:01.455 [restartedMain] [INFO] [com.example.demo.ProductClient] - Started ProductClient in 3.603 seconds (JVM running for 4.334)
+11:28 09:20:01.466 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:28 09:20:01.585 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:28 09:20:01.586 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:28 09:21:09.928 [restartedMain] [INFO] [com.example.demo.ProductClient] - Starting ProductClient on Wenyangs-MacBook-Pro-2.local with PID 97239 (/Users/kael.zhang/eclipse-workspace/ShoppingAppComments/target/classes started by kael.zhang in /Users/kael.zhang/eclipse-workspace/ShoppingAppComments)
+11:28 09:21:09.929 [restartedMain] [INFO] [com.example.demo.ProductClient] - No active profile set, falling back to default profiles: default
+11:28 09:21:13.137 [restartedMain] [INFO] [com.example.demo.ProductClient] - Started ProductClient in 3.421 seconds (JVM running for 3.918)
+11:28 09:21:13.146 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:28 09:21:13.191 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:28 09:21:13.191 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:28 09:21:13.193 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:28 09:21:37.975 [http-nio-8080-exec-2] [INFO] [c.e.demo.service.LoggingService] - Inside methodfindAll
+11:28 09:21:38.028 [http-nio-8080-exec-2] [INFO] [c.e.demo.service.LoggingService] - Exiting methodfindAll
+11:28 09:22:19.435 [http-nio-8080-exec-5] [INFO] [c.e.demo.service.LoggingService] - Inside methodfindAll
+11:28 09:22:19.438 [http-nio-8080-exec-5] [INFO] [c.e.demo.service.LoggingService] - Exiting methodfindAll
+11:28 09:23:24.177 [restartedMain] [INFO] [com.example.demo.ProductClient] - Starting ProductClient on Wenyangs-MacBook-Pro-2.local with PID 97239 (/Users/kael.zhang/eclipse-workspace/ShoppingAppComments/target/classes started by kael.zhang in /Users/kael.zhang/eclipse-workspace/ShoppingAppComments)
+11:28 09:23:24.177 [restartedMain] [INFO] [com.example.demo.ProductClient] - No active profile set, falling back to default profiles: default
+11:28 09:23:25.219 [restartedMain] [INFO] [com.example.demo.ProductClient] - Started ProductClient in 1.273 seconds (JVM running for 136.0)
+11:28 09:23:25.221 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:28 09:23:25.227 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:28 09:23:25.227 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:28 09:23:25.229 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:28 09:24:59.600 [restartedMain] [INFO] [com.example.demo.ProductClient] - Starting ProductClient on Wenyangs-MacBook-Pro-2.local with PID 97239 (/Users/kael.zhang/eclipse-workspace/ShoppingAppComments/target/classes started by kael.zhang in /Users/kael.zhang/eclipse-workspace/ShoppingAppComments)
+11:28 09:24:59.600 [restartedMain] [INFO] [com.example.demo.ProductClient] - No active profile set, falling back to default profiles: default
+11:28 09:25:00.553 [restartedMain] [INFO] [com.example.demo.ProductClient] - Started ProductClient in 0.973 seconds (JVM running for 231.334)
+11:28 09:25:00.555 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:28 09:25:00.561 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave
+11:28 09:25:00.561 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Inside methodsave
+11:28 09:25:00.562 [restartedMain] [INFO] [c.e.demo.service.LoggingService] - Exiting methodsave

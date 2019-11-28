@@ -1,0 +1,32 @@
+version: "3"
+
+services:
+
+  shoppingapp:
+     image: 598250878366.dkr.ecr.us-east-1.amazonaws.com/shoppingapp
+     networks: 
+       - n1
+     environment:
+      - spring.profiles.active=dev  
+     ports:
+       - 80:9000
+     depends_on: 
+     - mongo
+       
+  mongo:
+     image: mongo
+     container_name: mongo_ctr
+     networks:
+       - n1
+     environment:
+       - MONGO_INITDB_DATABASE=ShoppingAppProduct
+       - MONGO_INITDB_ROOT_USERNAME=mongo
+       - MONGO_INITDB_ROOT_PASSWORD=mongo
+     volumes:
+       - ./init-mongo.js:/docker-entrypoint-initdb.d/init-mongo.js:ro
+     ports:
+       - '27017:27017'
+       
+networks:
+  n1: 
+    
