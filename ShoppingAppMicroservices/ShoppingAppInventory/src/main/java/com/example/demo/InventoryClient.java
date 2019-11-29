@@ -30,52 +30,15 @@ import org.springframework.transaction.annotation.EnableTransactionManagement;
 @EnableAutoConfiguration(exclude= {DataSourceAutoConfiguration.class} )
 
 @SpringBootApplication
-@EnableTransactionManagement
+@EnableTransactionManagement(proxyTargetClass=false)
+@EnableAspectJAutoProxy(proxyTargetClass=false)
 public class InventoryClient {
 
-	@Autowired DatabaseConfig cfg;
-	
 	public static void main(String[] args) {
 		SpringApplication.run(InventoryClient.class, args);
 	}
 	
-	@Bean
-	//@Primary
-	public DataSource datasource() {
-		DriverManagerDataSource ds= new DriverManagerDataSource();
-		ds.setUrl(cfg.getDb().getUrl());
-		ds.setDriverClassName(cfg.getDb().getDriverClassName());
-		ds.setPassword(cfg.getDb().getPassword());
-		ds.setUsername(cfg.getDb().getUsername());
-		return ds;
-	}
 	
-	@Bean
-	public EntityManagerFactory entityManagerFactory() throws IOException {
-		return factory().unwrap(EntityManagerFactory.class);
-	}
-	
-	public SessionFactory factory() throws IOException {
-		LocalSessionFactoryBean bean = new LocalSessionFactoryBean();
-		bean.setDataSource(datasource());
-		bean.setPackagesToScan("com.example.demo.dto");
-		Properties prop = new Properties();
-		prop.setProperty(Environment.HBM2DDL_AUTO, "create");
-		prop.setProperty(Environment.DIALECT, PostgreSQL9Dialect.class.getName());
-		bean.setHibernateProperties(prop);
-		bean.afterPropertiesSet();
-		return bean.getObject();
-	}
-	
-	//@Bean("txManager")
-	/*
-	@Bean
-	public DataSourceTransactionManager transactionManager() {
-		DataSourceTransactionManager txmanager= new DataSourceTransactionManager();
-		//txmanager.setNestedTransactionAllowed(true);
-		txmanager.setDataSource(datasource());
-		return txmanager;
-	}*/
 	
 
 }
