@@ -17,6 +17,7 @@ import org.springframework.boot.autoconfigure.domain.EntityScan;
 import org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
+import org.springframework.context.annotation.EnableAspectJAutoProxy;
 import org.springframework.context.annotation.Primary;
 import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
 import org.springframework.jdbc.datasource.DriverManagerDataSource;
@@ -26,17 +27,19 @@ import org.springframework.transaction.annotation.EnableTransactionManagement;
 @EnableJpaRepositories(basePackages= {"com.example.demo.dao"})
 @EntityScan(basePackages= {"com.example.demo.dto"})
 
-@EnableAutoConfiguration(exclude= {DataSourceAutoConfiguration.class} )
+//@EnableAutoConfiguration(exclude= {DataSourceAutoConfiguration.class} )
+@EnableAutoConfiguration
 @SpringBootApplication
-@EnableTransactionManagement
+@EnableTransactionManagement(proxyTargetClass=false)
+@EnableAspectJAutoProxy(proxyTargetClass=false)
 public class ShippingClient {
 
-	@Autowired DatabaseConfig cfg;
+	//@Autowired DatabaseConfig cfg;
 	
 	public static void main(String[] args) {
 		SpringApplication.run(ShippingClient.class, args);
 	}
-	
+	/*
 	@Bean
 	//@Primary
 	public DataSource datasource() {
@@ -63,6 +66,6 @@ public class ShippingClient {
 		bean.setHibernateProperties(prop);
 		bean.afterPropertiesSet();
 		return bean.getObject();
-	}
+	}*/
 
 }

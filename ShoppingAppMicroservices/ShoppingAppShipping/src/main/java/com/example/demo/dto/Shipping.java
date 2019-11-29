@@ -33,7 +33,9 @@ public class Shipping {
 	@Embedded
 	private Address address;
 	@Default
-	private String usernameString = "annonimous";
-	private int senderId;
+	private String customerName = "anonymous";
+	private int storeId;
 	private String orderId;
+	private float weight;
+	private float price;
 }

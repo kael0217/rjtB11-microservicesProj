@@ -25,8 +25,8 @@ public class DataPopulator implements CommandLineRunner {
 		Address a1=Address.builder().hno(1).street("main street").city("Chicago").state("IL").pincode(60174).build();
 		Address a2=Address.builder().hno(2).street("south street").city("New York City").state("NY").pincode(60111).build();
 		
-		Shipping s1 = Shipping.builder().id(1).address(a2).senderId(00).orderId("o1").build();
-		Shipping s2 = Shipping.builder().id(2).address(a1).senderId(01).orderId("o2").build();
+		Shipping s1 = Shipping.builder().id(1).address(a2).storeId(1).orderId("o1").customerName("Harry").weight(1.1f).price(5f).build();
+		Shipping s2 = Shipping.builder().id(2).address(a1).storeId(2).orderId("o2").customerName("James").weight(1.1f).price(5f).build();
 		shipping.save(s1);
 		shipping.save(s2);
 
